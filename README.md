@@ -12,7 +12,7 @@ O projeto consiste em aplicar os métodos de fatoração de matrizes Mínimos Qu
 
 Desse modo, o principal tema desse trabalho é a redução de dimensionalidade que se trata da transformação de dados que se encontram num espaço dimensional alto para dados em dimensões mais baixas. Essas transformações são feitas, pois as representações em dimensões menores podem conter diversas propriedades e revelar informações significativas do dado original, que podem ser investigadas em processos de clusterização e visualização de dados que são viáveis devido à essa manipulação.
  
-Para mais detalhes teóricos acesse o relatório [clicando aqui](https://github.com/danielShz/Trabalho-Final-ALA/wiki/Relat%C3%B3rio).
+Para mais detalhes teóricos acesse o relatório [clicando aqui](https://github.com/danielshz/svd-dimensionality-reduction/wiki/Relat%C3%B3rio).
 
 ## 🔨 Pré-requisitos <a name="install"></a>
 
